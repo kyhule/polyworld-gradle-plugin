@@ -2,7 +2,7 @@
 android-plugin = "8.0.2"
 dependencyAnalysis = "1.25.0"
 dependencySorter = "0.4"
-githubRelease = "2.4.1"
+githubRelease = "2.5.2"
 gradleDoctor = "0.8.1"
 kotlin = "1.9.10"
 mavenPublish = "0.25.3"
