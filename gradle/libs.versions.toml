@@ -13,7 +13,7 @@ gradlePlugin-android = { module = "com.android.tools.build:gradle", version.ref 
 gradlePlugin-dependencyAnalysis = { module = "com.autonomousapps:dependency-analysis-gradle-plugin", version.ref = "dependencyAnalysis" }
 gradlePlugin-doctor = { module = "com.osacky.doctor:doctor-plugin", version.ref = "gradleDoctor" }
 gradlePlugin-githubRelease = { module = "com.github.breadmoirai:github-release", version.ref = "githubRelease" }
-gradlePlugin-gradleAndroidCacheFix = "org.gradle.android.cache-fix:org.gradle.android.cache-fix.gradle.plugin:2.8.1"
+gradlePlugin-gradleAndroidCacheFix = "org.gradle.android.cache-fix:org.gradle.android.cache-fix.gradle.plugin:3.0.1"
 gradlePlugin-kotlin = { module = "org.jetbrains.kotlin:kotlin-gradle-plugin", version.ref = "kotlin" }
 gradlePlugin-mavenPublish = { module = "com.vanniktech:gradle-maven-publish-plugin", version.ref = "mavenPublish" }
 gradlePlugin-reckon = { module = "org.ajoberstar.reckon:reckon-gradle", version.ref = "reckon" }
