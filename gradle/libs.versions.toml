@@ -1,6 +1,6 @@
 [versions]
 android-plugin = "8.0.2"
-dependencyAnalysis = "1.25.0"
+dependencyAnalysis = "1.30.0"
 dependencySorter = "0.4"
 githubRelease = "2.4.1"
 gradleDoctor = "0.8.1"
