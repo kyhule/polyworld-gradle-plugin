@@ -4,7 +4,7 @@ dependencyAnalysis = "1.25.0"
 dependencySorter = "0.4"
 githubRelease = "2.4.1"
 gradleDoctor = "0.8.1"
-kotlin = "1.9.10"
+kotlin = "1.9.23"
 mavenPublish = "0.25.3"
 reckon = "0.18.1"
 
