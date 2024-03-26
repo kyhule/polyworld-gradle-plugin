@@ -1,5 +1,5 @@
 [versions]
-android-plugin = "8.0.2"
+android-plugin = "8.3.1"
 dependencyAnalysis = "1.25.0"
 dependencySorter = "0.4"
 githubRelease = "2.4.1"
