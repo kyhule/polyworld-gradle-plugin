@@ -1,7 +1,7 @@
 [versions]
 android-plugin = "8.3.1"
 dependencyAnalysis = "1.30.0"
-dependencySorter = "0.6"
+dependencySorter = "0.8"
 githubRelease = "2.5.2"
 gradleDoctor = "0.9.2"
 kotlin = "1.9.23"
