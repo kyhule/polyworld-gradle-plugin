@@ -5,7 +5,7 @@ dependencySorter = "0.8"
 githubRelease = "2.5.2"
 gradleDoctor = "0.10.0"
 kotlin = "2.0.20"
-mavenPublish = "0.29.0"
+mavenPublish = "0.31.0"
 reckon = "0.18.3"
 
 [libraries]
