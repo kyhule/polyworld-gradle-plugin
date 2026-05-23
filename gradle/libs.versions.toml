@@ -6,7 +6,7 @@ githubRelease = "2.5.2"
 gradleDoctor = "0.10.0"
 kotlin = "2.0.20"
 mavenPublish = "0.29.0"
-reckon = "0.18.3"
+reckon = "0.19.2"
 
 [libraries]
 gradlePlugin-android = { module = "com.android.tools.build:gradle", version.ref = "android-plugin" }
